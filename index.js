@@ -7,6 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
 	});
 
 	function realizarFuncion() {
-		alert("¡Hola! Esta es mi funcionalidad");
+		alert("https://github.com/JhonRamire/desarrollo-software2/tree/jhon");
 	}
-});
+})
