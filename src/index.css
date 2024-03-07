@@ -1,13 +1,24 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+  --color-primario: #18ffff;
+  --color-secundario: #84b5a4;
+  --color-terciario: #fcfcd4;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html {
+  font-size: 25px;
+  /* background-color: var(--color-primario); */
+  background-image: linear-gradient(to right, #18ffff, #84ffe1, #baffcf, #e1fdcb, #fcfcd4);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+img {
+  /* width es el ancho , height es el alto */
+  width: 500px;
+  height: 500px;
+  /* en css existe un modelo de caja para cada etiqueta, tiene margin(margen), border (borde), padding , content */
+  margin: 10px;
 }
