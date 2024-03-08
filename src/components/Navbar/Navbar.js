@@ -1,16 +1,17 @@
-// Navbar.js
+// components/Navbar.js
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
     return (
         <nav>
             <ul>
-                <li><a href="#info">Información</a></li>
-                <li><a href="#categoria">Categoría</a></li>
-                <li><a href="#productos">Productos</a></li>
-                <li><a href="#api">API</a></li>
-                <li><a href="#form">Formulario</a></li>
-                <li><a href="#login">Iniciar sesión</a></li>
+                <li><Link to="/info">Información</Link></li>
+                <li><Link to="/categoria">Categoría</Link></li>
+                <li><Link to="/productos">Productos</Link></li>
+                <li><Link to="/api">API</Link></li>
+                <li><Link to="/form">Formulario</Link></li>
+                <li><Link to="/login">Iniciar sesión</Link></li>
             </ul>
         </nav>
     );
