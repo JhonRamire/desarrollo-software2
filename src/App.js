@@ -15,6 +15,8 @@ function App() {
     <Router>
       <div>
         <Navbar />
+        <h1>Jhon Ramirez Narvaez</h1>
+        <p>El siguiente link es mi repositorio publico https://github.com/JhonRamire/desarrollo-software2/tree/jhon</p>
         <Routes>
           <Route path='/info' Component={InfoSection} />
           <Route path='/categoria' Component={CategoriesSection} />
