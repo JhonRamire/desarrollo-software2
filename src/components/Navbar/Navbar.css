@@ -1,0 +1,30 @@
+/* Navbar.css */
+nav {
+    background-color: #333;
+    padding: 10px 20px;
+    text-align: center;
+    /* Centra el contenido horizontalmente */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    /* Hace que la lista sea bloque para centrarla horizontalmente */
+}
+
+li {
+    display: inline;
+    /* Hace que los elementos de lista sean en línea */
+    margin-right: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
