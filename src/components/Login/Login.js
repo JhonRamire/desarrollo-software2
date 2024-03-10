@@ -4,7 +4,7 @@ import './Login.css';
 
 function Login() {
     return (
-        <div>
+        <div class="divIniciarSesion">
             <h2>Iniciar Sesión</h2>
             <form>
                 <div>
