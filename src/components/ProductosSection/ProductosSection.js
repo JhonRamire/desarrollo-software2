@@ -5,6 +5,7 @@ function ProductosSection() {
     return (
         <section class="productos" id="productos">
             <h2>Seccion de productos</h2>
+
             <div>
                 <h3>Producto bolso 1</h3>
                 <img src="./asset/imgProductoBolso00.jpg" alt="" />
@@ -22,6 +23,7 @@ function ProductosSection() {
                 <img src="./asset/imgProductoBolso03.jpg" alt="" />
                 <p>Esta es una descripcion de producto 4 de la categoria bolso</p>
             </div>
+
             <div>
                 <h3>Producto maleta 1</h3>
                 <img src="./asset/imgProductoMaleta00.jpg" alt="" />
@@ -38,6 +40,24 @@ function ProductosSection() {
                 <h3>Producto maleta 4</h3>
                 <img src="./asset/imgProductoMaleta00.jpg" alt="" />
                 <p>Esta es una descripcion de producto 4 de la categoria maleta</p>
+            </div>
+
+            <div>
+                <h3>Producto accesorio 1</h3>
+                <img src="./asset/imgProdutoAccesorio00.jpg" alt="" />
+                <p>Esta es una descripcion de producto 1 de la categoria accesorios de viaje</p>
+                <br />
+                <h3>Producto accesorio 2</h3>
+                <img src="./asset/imgProdutoAccesorio01.jpg" alt="" />
+                <p>Esta es una descripcion de producto 2 de la categoria accesorios de viaje</p>
+                <br />
+                <h3>Producto accesorio 3</h3>
+                <img src="./asset/imgProdutoAccesorio02.jpg" alt="" />
+                <p>Esta es una descripcion de producto 3 de la categoria accesorios de viaje</p>
+                <br />
+                <h3>Producto accesorio 4</h3>
+                <img src="./asset/imgProdutoAccesorio03.jpg" alt="" />
+                <p>Esta es una descripcion de producto 4 de la categoria accesorios de viaje</p>
             </div>
         </section>
     );
