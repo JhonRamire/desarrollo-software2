@@ -1,0 +1,39 @@
+/* InfoSection.css */
+
+.info {
+    background-color: #282828;
+    color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.info h1 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.info p {
+    margin-bottom: 20px;
+}
+
+.info div {
+    margin-bottom: 20px;
+    text-align: center;
+    /* Centra el contenido */
+}
+
+.info h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    text-align: center;
+    /* Centra el texto */
+}
+
+.info div h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.info div p {
+    margin-bottom: 10px;
+}
