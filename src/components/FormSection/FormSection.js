@@ -1,5 +1,6 @@
 // FormSection.js
 import React, { useState } from 'react';
+import './FormSection.css'
 
 function FormSection() {
     const [nombre, setNombre] = useState('');
