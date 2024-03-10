@@ -1,0 +1,30 @@
+.productos {
+    text-align: center;
+}
+
+.productos div {
+    display: inline-block;
+    width: calc(33.33% - 20px);
+    margin: 10px;
+    background-color: #ffffff;
+    color: #282828;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    vertical-align: top;
+}
+
+.productos h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.productos img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.productos p {
+    margin-bottom: 10px;
+}

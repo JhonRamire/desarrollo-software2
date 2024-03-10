@@ -1,5 +1,6 @@
 // ProductsSection.js
 import React from 'react';
+import './ProductosSection.css'; //Importa el archivo CSS
 
 function ProductosSection() {
     return (
