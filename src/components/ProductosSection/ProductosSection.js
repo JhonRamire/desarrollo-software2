@@ -59,6 +59,24 @@ function ProductosSection() {
                 <img src="./asset/imgProdutoAccesorio03.jpg" alt="" />
                 <p>Esta es una descripcion de producto 4 de la categoria accesorios de viaje</p>
             </div>
+
+            <div>
+                <h3>Producto avion de coleccion 1</h3>
+                <img src="./asset/imgProductoAvion00.jpg" alt="" />
+                <p>Esta es una descripcion de producto 1 de la categoria avion de coleccion</p>
+                <br />
+                <h3>Producto avion de coleccion 2</h3>
+                <img src="./asset/imgProductoAvion01.jpg" alt="" />
+                <p>Esta es una descripcion de producto 2 de la categoria avion de coleccion</p>
+                <br />
+                <h3>Producto avion de coleccion 3</h3>
+                <img src="./asset/imgProductoAvion02.jpg" alt="" />
+                <p>Esta es una descripcion de producto 3 de la categoria avion de coleccion</p>
+                <br />
+                <h3>Producto avion de coleccion 4</h3>
+                <img src="./asset/imgProductoAvion03.jpg" alt="" />
+                <p>Esta es una descripcion de producto 4 de la categoria avion de coleccion</p>
+            </div>
         </section>
     );
 }
