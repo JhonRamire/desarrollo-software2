@@ -1,0 +1,51 @@
+/* CategoriaSection.css */
+
+.categoria {
+    background-color: #282828;
+    color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.categoria h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+    /* Centra el texto */
+}
+
+.categoria div {
+    display: flex;
+    justify-content: center;
+    /* Centra horizontalmente los elementos */
+    margin-bottom: 20px;
+}
+
+.categoria article {
+    background-color: #ffffff;
+    color: #282828;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: 0 auto;
+    /* Centra horizontalmente */
+    text-align: center;
+}
+
+
+.categoria article h2 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.categoria article img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.categoria article p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
