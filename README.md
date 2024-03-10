@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Mi primer proyecto React para desarrollo de software II
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es un proyecto creado con Create React App. Incluye algunas funcionalidades básicas y ejemplos de uso de React.
 
-## Available Scripts
+## ¿Cómo Ejecutar el Proyecto?
 
-In the project directory, you can run:
+1. Debes clonar mi repositorio en tu maquina local. (git clone https://github.com/JhonRamire/desarrollo-software2.git)
+2. Debes abrir el proyecto y ejecutar el siguiente comando (npm start)
+3. Disfruta viendo el proyecto que acabe de realizar con react para desarrollo de software II
 
-### `npm start`
+## ¿Como hice el proyecto y como lo podrias realizar tú?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Debes abrir una cuenta de git (https://github.com/)
+   Si te preguntar ¿Qué es git? segun google (GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git.) yo te diria que es para guardar tus proyectos para poder trabajar con mas personas.
+2. Ya que tengas tu cuenta git deberas crear un repositorio o como yo lo entiendo una carpeta para colocar ahi tu proyecto (Debes ir a repositories o repositorios y darle a new o nuevo darle un nombre y next).
+3. Debes ir a tu editor de codigo yo en este caso use VisualStudio y dentro en la terminal conectarte a tu cuenta git yo segui este tutorial (https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/)
+4. Instalar Node.js: Antes de comenzar, asegúrate de tener Node.js instalado en tu sistema. Puedes descargarlo e instalarlo desde (https://nodejs.org/en)
+5. Crear un nuevo proyecto: Abre tu terminal y ejecuta el siguiente comando para crear un nuevo proyecto React: (npx create-react-app nombre-del-proyecto).
+6. Navegar al directorio del proyecto: Una vez que el comando haya terminado de crear el proyecto, navega al directorio del proyecto.
+7. Iniciar la aplicación: Finalmente, ejecuta el siguiente comando para iniciar tu aplicación React: npm start
